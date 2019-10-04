@@ -1,0 +1,12 @@
+git is client
+github is server 
+
+git init - create git folder
+
+git config --global user.email mailid
+
+git config --global user.name name
+
+git config --global color.ui true
+
+
